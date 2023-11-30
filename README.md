@@ -50,3 +50,8 @@ Explore various data structures that form the foundation of efficient programmin
 - **[queue.js](data-structures/queue/queue.js):** Implementation of a queue. -->
 
 Feel free to explore the code in each folder, understanding the intricacies of algorithms and the versatility of data structures. Use these implementations as a learning resource or as a foundation for your JavaScript projects.
+
+<hr />
+### For Contributors
+
+**[CONTRIBUTING.md](CONTRIBUTING.md):** Click to read the contribution guidelines
