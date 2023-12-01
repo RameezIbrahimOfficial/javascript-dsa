@@ -34,7 +34,7 @@ All contributions will go through a code review process. Be responsive to feedba
 
 ### License
 
-By contributing to this project, you agree that your contributions will be licensed under the [LICENSE NAME] license.
+By contributing to this project, you agree that your contributions will be licensed under the MIT license.
 
 Thank you for your contributions! 🚀
 Happy Coding! 💻
