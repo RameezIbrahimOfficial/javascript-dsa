@@ -37,9 +37,9 @@ Explore various data structures that form the foundation of efficient programmin
 
 - **[linkedList.js](data-structures/linked-list/linked_list.js):** Implementation of a linked list.
 
-<!-- ### Hash Table
+### Hash Table
 
-- **[hashTable.js](data-structures/hash-table/hashTable.js):** Implementation of a hash table.
+- **[hashTable.js](data-structures/hash-table/hash-table.js):** Implementation of a hash table.
 
 ### Stack
 
@@ -47,7 +47,7 @@ Explore various data structures that form the foundation of efficient programmin
 
 ### Queue
 
-- **[queue.js](data-structures/queue/queue.js):** Implementation of a queue. -->
+- **[queue.js](data-structures/queue/queue.js):** Implementation of a queue.
 
 Feel free to explore the code in each folder, understanding the intricacies of algorithms and the versatility of data structures. Use these implementations as a learning resource or as a foundation for your JavaScript projects.
 
