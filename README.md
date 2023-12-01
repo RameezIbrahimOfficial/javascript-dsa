@@ -44,10 +44,12 @@ Explore various data structures that form the foundation of efficient programmin
 ### Stack
 
 - **[stack.js](data-structures/stack/stack.js):** Implementation of a stack.
+- **[stackUsingQueue.js](data-structures/stack/stackUsingQueue.js):** Implementation of a stack using queue.
 
 ### Queue
 
 - **[queue.js](data-structures/queue/queue.js):** Implementation of a queue.
+- **[queueUsingStack.js](data-structures/queue/queueUsingStack.js):** Implementation of a queue using stack.
 
 Feel free to explore the code in each folder, understanding the intricacies of algorithms and the versatility of data structures. Use these implementations as a learning resource or as a foundation for your JavaScript projects.
 
