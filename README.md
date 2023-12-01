@@ -15,13 +15,13 @@ This repository contains JavaScript implementations of common algorithms and dat
 - **[linearSearch.js](algorithms/searching/linear_search.js):** Implementation of linear search.
 - **[binarySearch.js](algorithms/searching/binary_search.js):** Implementation of binary search.
 
-<!-- ### Sorting
+### Sorting
 
 - **[quickSort.js](algorithms/sorting/quickSort.js):** Quick sort algorithm.
 - **[mergeSort.js](algorithms/sorting/mergeSort.js):** Merge sort algorithm.
 - **[insertionSort.js](algorithms/sorting/insertionSort.js):** Insertion sort algorithm.
 - **[selectionSort.js](algorithms/sorting/selectionSort.js):** Selection sort algorithm.
-- **[bubbleSort.js](algorithms/sorting/bubbleSort.js):** Bubble sort algorithm. -->
+- **[bubbleSort.js](algorithms/sorting/bubbleSort.js):** Bubble sort algorithm.
 
 <hr />
 
@@ -31,7 +31,7 @@ Explore various data structures that form the foundation of efficient programmin
 
 ### Array
 
-- **[arrayOperations.js](data-structures/array/array.js):** Basic operations on arrays.
+- **[array.js](data-structures/array/array.js):** Basic operations on arrays.
 
 ### Linked List
 
