@@ -53,6 +53,11 @@ Feel free to explore the code in each folder, understanding the intricacies of a
 
 <hr />
 
-### For Contributors
+### Contributions
 
 **[CONTRIBUTING.md](CONTRIBUTING.md):** Click to read the contribution guidelines
+
+### Contributors
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=fasilofficial/javascript-dsa"/>
+</a>
